@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "name": "Fried-Chicken",
+        "price": "Rs 499",
+        "image": "Assets/burger.png"
+    },
+    {
+        "id":2,
+        "name": "Burger veg",
+        "price": "Rs 259",
+        "image": "Assets/burger.png"
+    },
+    {
+        "id":3,
+        "name": "Pizza",
+        "price": "Rs 350",
+        "image": "Assets/pizza.png"
+    },
+    {
+        "id":4,
+        "name": "Burger",
+        "price": "Rs 359",
+        "image": "Assets/burger.png"
+    },
+    {
+        "id":5,
+        "name": "Sandwich",
+        "price": "Rs 429",
+        "image": "Assets/sandwich.png"
+    },
+    {
+        "id":6,
+        "name": "Spring_Roll",
+        "price": "Rs 199",
+        "image": "Assets/spring-roll.png"
+    },
+    {
+        "id":7,
+        "name": "Spaghetti",
+        "price": "Rs 699",
+        "image": "Assets/spaghetti.png"
+    },
+    {
+        "id":8,
+        "name": "Lasanga",
+        "price": "Rs 419",
+        "image": "Assets/lasagna.png"
+    }
+
+
+
+
+
+]
